@@ -5,7 +5,8 @@ Wed Feb 20 09:59:10 MST 2008
 My solution to Stanford CS109's "Great Tree List Recursion Problem".
 See TreeListRecursion.pdf for problem definition.
 
-This time in C.
+This time in C. I did a [Go version](https://github.com/bediger4000/tree-list-recursion-go) more recently.
+See the Go version repository for a comparison and some software engineering opinions.
 
 ## Executable units
 
